@@ -1,5 +1,7 @@
 package com.spark.mode
 
+import java.sql.Date
+
 object DataModel {
 
   /**
@@ -11,7 +13,7 @@ object DataModel {
    * @param province 某个页面的ID
    *
    */
-  case class Movie(uuid: String, cid: Int, adType: String, name: String, province: String)
+  case class Movie(time:BigInt,uuid: String, cid: Int, adType: String, name: String, province: String)
 
   /**
    * 用户区域表
