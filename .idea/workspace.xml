@@ -3,19 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f296d4b9-80ad-4a95-a41f-10e72db49595" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/com/spark/analyze/UserAnalyze.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/spark/analyze/UserAnalyze.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/spark/mode/DataModel.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/spark/mode/DataModel.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark/analyze/UserAnalyze$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spark/analyze/UserAnalyze$$anonfun$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/spark/analyze/UserAnalyze$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spark/analyze/UserAnalyze$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$Movie$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$Movie$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$Movie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$TopNMovie$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$TopNMovie$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$TopNMovie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$TopNMovie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$TopNProvince$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$TopNProvince$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$TopNProvince.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel$TopNProvince.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spark/mode/DataModel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/spark-project-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/spark-project-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>

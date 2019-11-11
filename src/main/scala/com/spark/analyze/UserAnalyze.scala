@@ -37,7 +37,7 @@ object UserAnalyze {
     //    //最近半年的数据
     val testhaldYears = "select * from Movie  where  time!=-1 and  datediff(now() ,FROM_UNIXTIME(time/1000,'yyyy-MM-dd') )<=180 "
     val haldYears: DataFrame = spark.sql(testhaldYears)
-    oneMouthDF.createOrReplaceTempView("halfYears")
+    haldYears.createOrReplaceTempView("halfYears")
     // saveToMysql(oneMouthDF, "halfYearsTest")
 
 
