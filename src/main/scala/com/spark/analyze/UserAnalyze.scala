@@ -128,7 +128,7 @@ object UserAnalyze {
    */
   def loadZipDataFromHdfs(sc: SparkContext) = {
     //hdfs地址
-    val baseDir = "hdfs://192.168.1.123:8020/movie"
+    val baseDir = "hdfs://192.168.10.123:8020/movie"
     //读取hdfs 上的zip
     val dataRDD = sc.binaryFiles(s"$baseDir/*/*.zip", 40)
       .flatMap {
